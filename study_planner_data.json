@@ -1,0 +1,80 @@
+{
+  "courses": [
+    "AP Biology",
+    "AP Calculus AB"
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Study: AP Biology - Cell Structure and Function",
+      "course": "AP Biology",
+      "task_type": "study",
+      "due_date": "2026-07-12",
+      "effort": 3,
+      "points": 35,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Study: AP Calculus AB - Limits and Continuity",
+      "course": "AP Calculus AB",
+      "task_type": "study",
+      "due_date": "2026-07-12",
+      "effort": 3,
+      "points": 30,
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Review quick quiz for AP Biology",
+      "course": "AP Biology",
+      "task_type": "review",
+      "due_date": "2026-07-14",
+      "effort": 2,
+      "points": 15,
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Review quick quiz for AP Calculus AB",
+      "course": "AP Calculus AB",
+      "task_type": "review",
+      "due_date": "2026-07-14",
+      "effort": 2,
+      "points": 15,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Study: AP Biology - Genetics and Inheritance",
+      "course": "AP Biology",
+      "task_type": "study",
+      "due_date": "2026-07-14",
+      "effort": 3,
+      "points": 35,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Study: AP Calculus AB - Derivative Rules",
+      "course": "AP Calculus AB",
+      "task_type": "study",
+      "due_date": "2026-07-15",
+      "effort": 3,
+      "points": 30,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Study: AP Biology - Evolution and Natural Selection",
+      "course": "AP Biology",
+      "task_type": "study",
+      "due_date": "2026-07-16",
+      "effort": 3,
+      "points": 35,
+      "completed": false
+    }
+  ],
+  "points": 0,
+  "created_at": "2026-07-12"
+}
